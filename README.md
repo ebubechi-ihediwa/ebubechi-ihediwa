@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ebubechi-ihediwa
+- 👋 Hi, I’m Ebubechi Ihediwa
 - 👀 I’m interested in web and mobile development.
 - 🌱 I’m currently learning cloud engineering and mixed reality engineering .
 - 💞️ I’m looking to collaborate on several projects and would love your help, if interested please contact me via mail.
